@@ -5,6 +5,7 @@ import SideBar from "@/components/shared/SideBar";
 import Header from "@/components/shared/Header";
 import MobileMenu from "@/components/shared/MobileMenu";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {

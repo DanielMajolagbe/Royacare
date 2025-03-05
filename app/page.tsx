@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="flex flex-col space-y-4">
         <Link 
-          href="https://royacare-agency.onrender.com" 
+          href="https://royacare-compliance.onrender.com" 
           className="w-full p-6 bg-blue-50 hover:bg-blue-100 transition-colors rounded-lg text-center text-xl font-semibold"
         >
           Recruitment & Compliance
