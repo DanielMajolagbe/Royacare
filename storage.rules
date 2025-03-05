@@ -1,0 +1,9 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /documents/{employeeId}/{allPaths=**} {
+      allow read: if true;  // Anyone can read
+      allow write: if true; // Anyone can write (you might want to restrict this in production)
+    }
+  }
+} 

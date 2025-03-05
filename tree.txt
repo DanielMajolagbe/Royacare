@@ -1,0 +1,53 @@
+app
+├── edit
+│   └── [id]
+│       └── page.tsx
+├── employees
+│   ├── loading.tsx
+│   └── page.tsx
+├── new-employee
+│   └── page.tsx
+├── favicon.ico
+├── index.css
+├── layout.tsx
+└── page.tsx
+components
+├── forms
+│   └── EmployeeForm.tsx
+├── shared
+│   ├── FilterBar.tsx
+│   ├── NavBar.tsx
+│   ├── SearchEmployee.tsx
+│   └── SideBar.tsx
+├── tables
+│   └── EmployeeTable.tsx
+└── ui
+    ├── AlertModal.tsx
+    ├── TableRow.tsx
+    └── TextInput.tsx
+constants
+└── sideBarItems.ts
+lib
+├── actions
+│   └── employee.actions.ts
+├── models
+│   └── employee.model.ts
+├── validations
+│   └── employee.validation.ts
+└── mongoose.ts
+
+
+public
+├── next.svg
+└── vercel.svg
+.env
+.gitignore
+next-env.d.ts
+next.config.mjs
+package.json
+postcss.config.js
+project-tree.txt
+README.md
+tailwind.config.ts
+tsconfig.json
+yarn.lock
