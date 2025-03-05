@@ -28,7 +28,7 @@ export default function Home() {
           href="https://royacare-admin.onrender.com" 
           className="w-full p-6 bg-blue-50 hover:bg-blue-100 transition-colors rounded-lg text-center text-xl font-semibold"
         >
-          Admin System
+          Manager & Director
         </Link>
       </div>
     </section>
