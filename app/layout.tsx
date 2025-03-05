@@ -8,8 +8,8 @@ import MobileMenu from "@/components/shared/MobileMenu";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "RoyaCare Agency",
-  description: "",
+  title: "Royacare Agency",
+  description: "Providing Care and Nursing Staff to NHS Trust Hospitals, Nursing & Residential Care Homes around the UK",
   icons: {
     icon: "/roya.png",
   },

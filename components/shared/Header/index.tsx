@@ -15,8 +15,8 @@ const Header = () => {
         <div className="flex items-center gap-4">
           <div className="relative w-32 h-8">
             <Image
-              src="/logo.png"
-              alt="RoyaCare Agency"
+              src="/roya.png"
+              alt="Royacare Agency"
               fill
               className="object-contain"
               priority
